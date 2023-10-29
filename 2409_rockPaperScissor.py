@@ -1,7 +1,7 @@
 import tkinter as t #lakukan import tkiner
 from time import sleep
 import random
-#
+print("This game cannot be played by a cat.")
 userInput = ""
 computerInput = ""
 def fileOp(fileName, operation='r', content=''):
