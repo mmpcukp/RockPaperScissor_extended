@@ -1,4 +1,4 @@
-import tkinter as t # ini apa????
+import tkinter as t #lakukan import tkiner
 from time import sleep
 import random
 #
