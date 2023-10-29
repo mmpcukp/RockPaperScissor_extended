@@ -1,4 +1,4 @@
-import tkinter as t
+import tkinter as t # ini apa????
 from time import sleep
 import random
 #
