@@ -1,7 +1,8 @@
 import tkinter as t #lakukan import tkiner
 from time import sleep
 import random
-#
+# akopfmas;oiksma;ofam
+aspfkaspofka
 userInput = ""
 computerInput = ""
 def fileOp(fileName, operation='r', content=''):
