@@ -1,7 +1,7 @@
 import tkinter as t #lakukan import tkiner
 from time import sleep
 import random
-print("This game cannot be played by a cat.")
+
 userInput = ""
 computerInput = ""
 def fileOp(fileName, operation='r', content=''):
@@ -117,4 +117,4 @@ labelUserScore.grid(column=1,row=5)
 labelHighScore = t.Label(window, text=highScore,width=15, font=("Arial",20))
 labelHighScore.grid(column=2,row=5)
 
-window.mainloop()
+window.mainloop()  
